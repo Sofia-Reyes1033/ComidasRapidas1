@@ -6,14 +6,14 @@
     padding: 30px;
     border: 1px solid #000000;
     text-align: center;
-    background-color: rgb(170, 59, 165);
+    background-color: rgb(115, 121, 202);
 color:rgb(37, 8, 37);
-box-shadow: -12px -12px 12px #633ba3;
+box-shadow: -12px -12px 12px #3b42a3;
 
 }
 
 .piepagina-contenedor h1:hover{
     font-size: 50px;
-    color:crimson;
+    color:rgb(141, 93, 160);
 
 }
